@@ -1,0 +1,16 @@
+{
+    "name": "merry-christmas-tree",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "merry-christmas",
+        "christmas"
+    ],
+    "author": "MahdiGhaemi - VioletMoonStudio",
+    "license": "ISC",
+    "dependencies": {
+        "terminal-kit": "^1.31.4"
+    }
+}
